@@ -1,5 +1,5 @@
 # Azure-Zabbix-Resources
-To Monitor Zabbix resources using this scripts you need to put in your Enviroment you need to copy those.
+To Monitor Zabbix resources using this scripts you need to follow these steps:
 
     1- Copy the Repository
     2- Set the Variables the way you need/want
